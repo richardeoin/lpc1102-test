@@ -1,0 +1,17 @@
+# Parts List
+
+| Part | Description | Supplier | Quantity Required | Notes
+| ---  | ---         | ---       | ---               | ---
+2094271 1 U1 LPC1102UK,118
+1865279 1 JTAG1 arm swd connector 1.27mm
+1815750 1 U2 200mA 3.3v ldo
+2302362 8 R1, R2, R3, R4, R5, R6, R7, R8 10kΩ
+2099223 14 LED1-LED14 green led
+1759399 2 C1, C2 1µF
+1759122 1 C3 100nF
+
+## Useful items
+
+| Part | Description | Supplier | Quantity Required | Notes
+| ---  | ---         | ---       | ---               | ---
+1667659 Ribbon 10way 1.27mm
